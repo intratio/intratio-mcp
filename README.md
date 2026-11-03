@@ -34,7 +34,7 @@ claude mcp add --transport http intratio \
 
 1. "What is Intratio's 3-month outlook for NVDA, and how has it changed this month?"
 2. "Screen for large-cap tech stocks with the strongest 1-month signals."
-3. "Optimize AAPL, MSFT, JNJ, XOM and JPM for the best risk-adjusted return."
+3. "Optimize AAPL, MSFT, JNJ, CVX and JPM for the best risk-adjusted return."
 4. "Is re-optimizing my latest saved portfolio worth it after trading costs?"
 
 ## Tools (33)
